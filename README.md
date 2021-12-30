@@ -1,11 +1,9 @@
 # TCC
 Repositório dos trabalhos de conclusão de curso de graduação - UFFS
 
-##### Aluno: 
- Jod F Pierre
+##### Aluno: Jod F Pierre
  
-#### Orientador:
- Denio Duarte
+#### Orientador: Denio Duarte
 
 
 ## TEMA 
