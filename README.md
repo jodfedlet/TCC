@@ -11,7 +11,7 @@ Repositório dos trabalhos de conclusão de curso de graduação - UFFS
 
 ### LINKS IMPORTANTES
 
-[#### TCC I rascunho](https://docs.google.com/document/d/1R1pgF1FM15tFemwf9etjaZ_esjmDjxCkyQ7ApzLr6Nc/edit)
+#### [TCC I rascunho](https://docs.google.com/document/d/1R1pgF1FM15tFemwf9etjaZ_esjmDjxCkyQ7ApzLr6Nc/edit)
 
 
 [#### TCC I Anotações ](https://docs.google.com/document/d/1RdfKt1UlMZI_eETEDZr_pzlLp5F_1no1bgkljLwTPTM/edit)
