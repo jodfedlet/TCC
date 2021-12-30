@@ -20,7 +20,7 @@ https://docs.google.com/document/d/1R1pgF1FM15tFemwf9etjaZ_esjmDjxCkyQ7ApzLr6Nc/
 # TCC I Anotações 
 https://docs.google.com/document/d/1RdfKt1UlMZI_eETEDZr_pzlLp5F_1no1bgkljLwTPTM/edit
 
-# TCC I Anotações do professor (Denio duarte)
+# TCC I Anotações do professor (Denio Duarte)
 https://docs.google.com/document/d/1wAvI13iA-i3tOn6vGzWuUt3S6JsrRww7HgDPWg5w7t0/edit
 
 # Link do TCC final Overleaf
