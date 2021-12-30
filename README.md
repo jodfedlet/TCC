@@ -3,7 +3,7 @@ Repositório dos trabalhos de conclusão de curso de graduação - UFFS
 
 
 # TEMA 
-Utilizando modelagem de tópicos para identificar os assuntos mais discutidos sobre o haiti nas redes sociais
+Utilizando modelagem de tópicos para identificar os assuntos mais discutidos sobre o Haiti nas redes sociais
 
 # STRINGS DE BUSCA #GOOGLE SCHOLAR
 twitter AND “topic modeling”
