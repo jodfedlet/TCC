@@ -1,6 +1,8 @@
 # TCC
 Repositório dos trabalhos de conclusão de curso de graduação - UFFS
 
+##### Aluno: #Jod F Pierre
+
 
 ## TEMA 
 **_Utilizando modelagem de tópicos para identificar os assuntos mais discutidos sobre o Haiti nas redes sociais_**
@@ -16,7 +18,7 @@ Repositório dos trabalhos de conclusão de curso de graduação - UFFS
 
 * #### [Anotações ](https://docs.google.com/document/d/1RdfKt1UlMZI_eETEDZr_pzlLp5F_1no1bgkljLwTPTM/edit)
 
-* #### [Anotações do professor (Denio Duarte)](https://docs.google.com/document/d/1wAvI13iA-i3tOn6vGzWuUt3S6JsrRww7HgDPWg5w7t0/edit)
+* #### [Anotações do orientador](https://docs.google.com/document/d/1wAvI13iA-i3tOn6vGzWuUt3S6JsrRww7HgDPWg5w7t0/edit)
 
 * #### [Link do TCC final Overleaf](https://www.overleaf.com/project/619c1053a7f5f0700208908c)
 
