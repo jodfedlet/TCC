@@ -11,7 +11,7 @@ twitter AND “modelagem de tópicos”
 
 
 
-# LINK IMPORTANTES
+# LINKS IMPORTANTES
 
 # TCC I rascunho
 https://docs.google.com/document/d/1R1pgF1FM15tFemwf9etjaZ_esjmDjxCkyQ7ApzLr6Nc/edit
