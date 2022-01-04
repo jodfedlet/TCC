@@ -1,30 +1,28 @@
 # TCC
 Repositório dos trabalhos de conclusão de curso de graduação - UFFS
 
-
-# TEMA 
-Utilizando modelagem de tópicos para identificar os assuntos mais discutidos sobre o haiti nas redes sociais
-
-# STRINGS DE BUSCA #GOOGLE SCHOLAR
-twitter AND “topic modeling”
-twitter AND “modelagem de tópicos”
+##### Aluno: Jod F Pierre
+ 
+#### Orientador: Denio Duarte
 
 
+## TEMA 
+**_Utilizando modelagem de tópicos para identificar os assuntos mais discutidos sobre o Haiti nas redes sociais_**
 
-# LINKS IMPORTANTES
-
-# TCC I rascunho
-https://docs.google.com/document/d/1R1pgF1FM15tFemwf9etjaZ_esjmDjxCkyQ7ApzLr6Nc/edit
+### STRINGS DE BUSCA #GOOGLE SCHOLAR
+[Twitter AND “topic modeling” twitter AND “modelagem de tópicos](https://scholar.google.com/scholar?hl=fr&as_sdt=0%2C5&q=twitter+e+modelagem+de+t%C3%B3picos&oq=twitte)
 
 
-# TCC I Anotações 
-https://docs.google.com/document/d/1RdfKt1UlMZI_eETEDZr_pzlLp5F_1no1bgkljLwTPTM/edit
+### LINKS IMPORTANTES (TCCI)
 
-# TCC I Anotações do professor (Denio Duarte)
-https://docs.google.com/document/d/1wAvI13iA-i3tOn6vGzWuUt3S6JsrRww7HgDPWg5w7t0/edit
+* #### [Rascunho](https://docs.google.com/document/d/1R1pgF1FM15tFemwf9etjaZ_esjmDjxCkyQ7ApzLr6Nc/edit)
 
-# Link do TCC final Overleaf
-https://www.overleaf.com/project/619c1053a7f5f0700208908c
+
+* #### [Anotações aluno](https://docs.google.com/document/d/1RdfKt1UlMZI_eETEDZr_pzlLp5F_1no1bgkljLwTPTM/edit)
+
+* #### [Anotações do orientador](https://docs.google.com/document/d/1wAvI13iA-i3tOn6vGzWuUt3S6JsrRww7HgDPWg5w7t0/edit)
+
+* #### [Link do TCC final Overleaf](https://www.overleaf.com/project/619c1053a7f5f0700208908c)
 
 
 
