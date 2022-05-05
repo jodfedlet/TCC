@@ -9,7 +9,6 @@ import snscrape.modules.twitter as twitterScraper
 scraper = twitterScraper.TwitterSearchScraper(('haiti OR haitiano OR haitiana lang:pt since:2018-01-01 until:2022-05-04'))
 
 count = 0
-
 list_of_teets = []
 for idx, tweet in enumerate(scraper.get_items()):
   # if tweet.date.year < 2018 or (tweet.date.year == 2022 and tweet.date.month > 5):
