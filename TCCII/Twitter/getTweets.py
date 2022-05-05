@@ -13,7 +13,7 @@ list_of_teets = []
 for idx, tweet in enumerate(scraper.get_items()):
   # if tweet.date.year < 2018 or (tweet.date.year == 2022 and tweet.date.month > 5):
   #   break
-  tweet_dict = {'datetime':tweet.date, 'tweet_id': tweet.id,  'user_id': tweet.user.id, 'text': tweet.content}
+  tweet_dict = {'datetime':tweet.date,'tweet_id':tweet.id,'user_id':tweet.user.id,'text':tweet.content}
   list_of_teets.append(tweet_dict)
   count = idx
 print(count)
