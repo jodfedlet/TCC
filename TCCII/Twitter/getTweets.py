@@ -1,6 +1,6 @@
 
 
-#https://github.com/JustAnotherArchivist/snscrape/blob/master/README.md
+#https://github.com/JustAnotherArchivist/snscrape
 
 
 import pandas as pd
